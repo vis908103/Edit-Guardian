@@ -10,7 +10,7 @@ OWNER_ID = 1008989961
 
 SUDO_ID = [8037083010]
 
-MONGO_URI = ""
+MONGO_URI = "eg3skk3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DB_NAME = "neo"
 
