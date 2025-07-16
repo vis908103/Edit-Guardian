@@ -9,9 +9,9 @@ updates:
       include: "scope"
     open-pull-requests-limit: 5
     assignees:
-      - "hasnainkk-07"
+      - "UR_NEO"
     reviewers:
-      - "hasnainkk-07"
+      - "UR_NEO"
     labels:
       - "dependencies"
       - "automated-update"
@@ -24,9 +24,9 @@ updates:
       include: "scope"
     open-pull-requests-limit: 5
     assignees:
-      - "hasnainkk-07"
+      - "UR_NEO"
     reviewers:
-      - "hasnainkk-07"
+      - "UR_NEO"
     labels:
       - "actions"
       - "automated-update"
