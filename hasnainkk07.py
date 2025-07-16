@@ -18,15 +18,15 @@ buttons = [
     [
         InlineKeyboardButton(
             text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽",
-            url=f"https://t.me/EditGuardian_Bot?startgroup=true",
+            url=f"https://t.me/GuardianDivine_bot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/Raiden_Support"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/hasnainkk-07/Edit-Guardian"),
+        InlineKeyboardButton(text="𝐒ᴜᴘᴘᴏʀᴛ 𝐂ʜᴀɴɴᴇʟ", url=f"t.me/anime_india_divi"),
+        InlineKeyboardButton(text="𝐒ᴜᴘᴘᴏʀᴛ 𝐂ʜᴀᴛ", url=f"https://t.me/anime_india_divine"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/hasnainkk"),
+        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/UR_NEO"),
     ],
     
 ]
