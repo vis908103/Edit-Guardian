@@ -1,15 +1,15 @@
 {
   "name":  "Telegram edit message delete bot",
   "description": "Telegram bot example using python-telegram-bot",
-  "repository": "https://github.com/hasnainkk-07/Edit-Guardian",
+  "Support": "https://t.me/anime_india_divi",
   "keywords": ["telegram", "bot", "python"],
   "env": {
     "TELEGRAM_TOKEN": {
-      "description": "Telegram bot token gen from @BotFather",
+      "description": "8081003333:AAFYXlsgCJWnNnt5vKLBxHkIVAiad5c4zOU",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (owner)",
+      "description": "1008989961",
       "required": true
     }
   },
